@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hw_2_6</string>
+    <string name="register">Выполните вход или зарегистрируйтесь.</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="sign_in">Вход</string>
+    <string name="password">Введите пароль</string>
+</resources>
